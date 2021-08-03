@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Yoko Kawamoto 👋
+
+Software Engineer | Greater Seattle Area
+
+- 🔭 Co-creator of Ahoy!, a GUI for DevOps (Helm K8s deployment tool)
+- 🌱 Currently specializing in Frontend technologies including JavaScript, React, Redux and so on, but also have expertise in Backend technologies sucn as Kubernetes, Node.js, REST APIs, SQL Databases, UNIX OSs etc.
+- 💬 Public Talk @SingleSprout's Speaker Series: "Container Orchestrization Tools"
+- 📫 Reach me at [LinkedIn: Yoko Kawamoto](https://www.linkedin.com/in/yokokawamoto/)
 
 <!--
 **libero-yoko/libero-yoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
