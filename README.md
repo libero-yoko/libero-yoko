@@ -3,8 +3,8 @@
 Software Engineer | Greater Seattle Area
 
 - 🔭 Co-creator of Ahoy!, a GUI for DevOps (Helm K8s deployment tool)
-- 🌱 Currently specializing in Frontend technologies including JavaScript, React, Redux and so on, but also have expertise in Backend technologies sucn as Kubernetes, Node.js, REST APIs, SQL Databases, UNIX OSs etc.
-- 💬 Public Talk @SingleSprout's Speaker Series: "Container Orchestrization Tools"
+- 🌱 Currently specializing in Frontend technologies including JavaScript, React(+Hooks), Redux and so on, but also have expertise in Backend technologies such as Kubernetes, Node.js, REST APIs, SQL Databases, UNIX OS etc.
+- 💬 Public Talk @SingleSprout's Speaker Series: "Container Orchestration Tools"
 - 📫 Reach me at [LinkedIn: Yoko Kawamoto](https://www.linkedin.com/in/yokokawamoto/)
 
 <!--
